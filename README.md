@@ -1,3 +1,5 @@
+## Go Ethereum 주석 한글화 프로젝트 by Chaining
+
 ## Go Ethereum
 
 Official golang implementation of the Ethereum protocol.
